@@ -1,0 +1,33 @@
+body{
+	background: url('background-image.jpg') no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+
+.container{
+	margin-top:150px;
+	font-family: 'Julius Sans One', sans-serif;
+}
+
+#locationHelp{
+	margin-top:50px;
+	color:black !important;
+}
+
+.center{
+	text-align:center;
+}
+
+#city{
+	width:400px;
+	margin:0 auto;
+}
+
+#alert1{
+	width:500px;
+	margin:0 auto;
+	margin-top:30px;
+}
